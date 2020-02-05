@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name":"Pham Ngoc Khoi",
+    "occupation":"Fresher Developer",
+    "description":"Here is my personal information. I hope to cooperate with you in the future",
+    "image":"profilepic.png",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"",
+    "email": "khoipn.dev@gmail.com",
+    "phone": "0967709905 - 0865560512",
+    "address":{
+      "street":"Thai Son",
+      "city":"Thai Thuy",
+      "state":"Thai Binh",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/khoipn.dev",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/khoipn.dev",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/khoipn-dev",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"CodeGym VietNam",
+        "degree":"JAVA",
+        "graduated":"August 2019",
+        "description":"At Codegym Vietnam I learned about Javascript language, Java language and some technologies like: Spring MVC, Hibernate,..."
+      },
+      {
+        "school":"Bachkhoa Aptech",
+        "degree":"PHP",
+        "graduated":"January 2019",
+        "description":"At Bachkhoa Aptech I learned about HTML, CSS, PHP language and MySQL database and some technologies like: Bootstrap, Laravel,..."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML5",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"40%"
+      },
+      {
+        "name":"Java",
+        "level":"50%"
+      },
+      {
+        "name":"PHP",
+        "level":"40%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"50%"
+      },
+      {
+        "name":"Git",
+        "level":"40%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"30%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"30%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"MusicHub",
+        "category":"Play music online using JAVA and MySQL",
+        "image":"musichub.png",
+        "url":"https://github.com/vuducchinh29/MusicHub"
+      },
+      {
+        "title":"eChat",
+        "category":"Web chat realtime online using NodeJS and MongoDB",
+        "image":"webchat.png",
+        "url":"https://github.com/khoipn-dev/WebChat-NodeJS"
+      },
+      {
+        "title":"BookManage",
+        "category":"Book shop using ReactJS and Fisebase",
+        "image":"bookmanage.png",
+        "url":"https://github.com/khoipn-dev/book-manage"
+      },
+      {
+        "title":"TodoList",
+        "category":"Todo app using ReactJS and Firebase",
+        "image":"todo.png",
+        "url":"https://github.com/khoipn-dev/react-todo"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
